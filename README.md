@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi I'm Subeen 👋
 
-<!--
-**subeen-ko/subeen-ko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning and building in autonomous driving, robotics, and software development.
 
-Here are some ideas to get you started:
+### Interests
+- 🚗 Autonomous Driving
+- 🤖 Robotics
+- 📱 Software Development
+- 🧠 AI
+- 🛠️ Embedded Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Learning
+- ROS 2
+- MuJoCo
+- Computer Vision
+- Python / C++
+- Embedded Systems
+
+### Current Goals
+✅ Build autonomous vehicle
+✅ Launch software products
+✅ Grow Beenko
