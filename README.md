@@ -17,6 +17,6 @@ I'm learning and building in autonomous driving, robotics, and software developm
 - Embedded Systems
 
 ### Current Goals
-✅ Build autonomous vehicle
-✅ Launch software products
-✅ Grow Beenko
+- Build autonomous vehicle
+- Launch software products
+- Grow Beenko
